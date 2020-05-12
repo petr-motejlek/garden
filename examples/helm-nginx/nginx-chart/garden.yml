@@ -1,0 +1,5 @@
+kind: Module
+type: helm
+name: nginx-chart
+serviceResource:
+  kind: Deployment
